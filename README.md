@@ -1,0 +1,1 @@
+# odwracanie-pliku-tekstowego
